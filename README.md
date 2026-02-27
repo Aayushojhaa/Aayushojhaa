@@ -1,18 +1,18 @@
-<!-- ================= PREMIUM HERO ================= -->
+<!-- ================= HERO ================= -->
 
 <h1 align="center">Aayush Ojha</h1>
 
 <p align="center">
-  <b>Cloud Architect • DevOps Engineer • Infrastructure Builder</b>
+  <b>Cloud Architect • DevOps Engineer • Infrastructure Automation</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=00BFFF&center=true&vCenter=true&width=850&lines=Designing+Cloud+That+Scales;High+Availability+%7C+Multi-Region+Architecture;Infrastructure+as+Code+Specialist;Automation+Driven+Engineering" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=00BFFF&center=true&vCenter=true&width=850&lines=Multi-Region+AWS+Architecture;High+Availability+Systems;Infrastructure+as+Code;Automation+Driven+Engineering" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Aayushojhaa/Aayushojhaa/raw/main/Aayush_Ojha.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/✨%20View%20Resume-111111?style=for-the-badge"/>
+  <a href="https://github.com/Aayushojhaa/Aayushojhaa/raw/main/Aayush_Ojha.pdf" download>
+    <img src="https://img.shields.io/badge/⬇%20Download%20Resume-111111?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 </p>
 
@@ -22,100 +22,93 @@
 
 ## ☁️ About Me
 
-I design scalable and resilient cloud systems on AWS.
+Cloud & DevOps Engineer focused on building scalable, secure and resilient AWS systems.
 
 🎓 B.Tech Computer Science (CGPA 8.32)  
 🏆 AWS Certified Solutions Architect – Associate  
 🏆 AWS Certified Cloud Practitioner  
 
-I focus on building infrastructure that:
+I design infrastructure that:
 
 - Scales across Availability Zones  
 - Recovers across Regions  
-- Handles real production traffic  
-- Automates deployment pipelines  
+- Handles production-level traffic  
+- Automates CI/CD pipelines  
 
 ---
 
-<!-- ================= STACK ================= -->
+<!-- ================= TECH STACK ================= -->
 
 ## 🛠 Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,terraform,ansible,docker,kubernetes,jenkins,linux,mysql,git" />
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="22"/> <b>AWS</b><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="22"/> <b>Terraform</b><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="22"/> <b>Ansible</b><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="22"/> <b>Docker</b><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="22"/> <b>Kubernetes</b><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="22"/> <b>Jenkins</b><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="22"/> <b>Linux</b><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="22"/> <b>MySQL</b><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="22"/> <b>Git</b>
+
 </p>
 
 ---
 
-<!-- ================= ARCHITECTURE ================= -->
+<!-- ================= CORE EXPERTISE ================= -->
 
 ## 🌍 Architecture Expertise
 
-- VPC design (Public & Private Subnets)  
-- IAM security & least privilege  
+- VPC Design (Public & Private Subnets)  
+- IAM Security & Least Privilege  
 - EC2, Launch Templates & Auto Scaling  
 - Application Load Balancer  
-- Route 53 failover routing  
+- Route 53 Failover Routing  
 - RDS (MySQL) & ElastiCache (Redis)  
-- CloudFront global distribution  
-- Serverless systems with Lambda & API Gateway  
+- CloudFront Global Distribution  
+- Serverless with Lambda & API Gateway  
 
 ---
 
-<!-- ================= PROJECTS ================= -->
+<!-- ================= MAIN REPOSITORIES ================= -->
 
-## 🚀 Key Projects
+## 🚀 Main Repositories
 
-### ☁️ Cloud-Native High Availability Platform  
+### 🔹 Cloud-Native High Availability Portfolio Platform  
 🔗 https://github.com/Aayushojhaa/Cloud-Native-High-Availability-Portfolio-Platform  
 
-Multi-Region AWS architecture featuring:
-
-- EC2 + Launch Templates  
+Multi-Region AWS architecture including:
 - Auto Scaling Groups  
-- Application Load Balancer  
-- Route 53 failover  
-- RDS (MySQL)  
-- ElastiCache (Redis)  
-- CloudFront global CDN  
+- ALB  
+- Route 53 Failover  
+- RDS + Redis  
+- CloudFront  
 
-Built like real production infrastructure.
+Production-style infrastructure deployment.
 
 ---
 
-### 🌍 AWS High Availability & Disaster Recovery  
+### 🔹 AWS High Availability & Disaster Recovery  
 🔗 https://github.com/Aayushojhaa/aws-high-availability-disaster-recovery  
 
 Focused on:
-
 - Regional failover strategy  
-- Disaster recovery planning  
+- Disaster recovery implementation  
 - Infrastructure resilience  
-- High availability design principles  
+- High availability design  
 
 ---
 
-<!-- ================= STATS ================= -->
+### 🔹 ELB Implementation Project  
+🔗 https://github.com/Aayushojhaa/elb  
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aayushojhaa&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
+Load balancing implementation and traffic distribution setup.
 
 ---
 
-<!-- ================= SNAKE ================= -->
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://github.com/Aayushojhaa/Aayushojhaa/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-<!-- ================= CONNECT ================= -->
+<!-- ================= CONTACT ================= -->
 
 ## 📬 Connect
 
@@ -124,4 +117,4 @@ Focused on:
 
 ---
 
-> I don’t just deploy infrastructure — I design systems that survive scale.
+> Building infrastructure that scales, survives failure, and performs under pressure.
