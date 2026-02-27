@@ -11,8 +11,8 @@ Multi-Region Cloud Architect • High Availability • DevOps Automation
 </p>
 
 <p align="center">
-  <a href="https://github.com/Aayushojhaa/Aayushojhaa/blob/main/Aayush_Ojha_Resume.pdf">
-    <img src="https://img.shields.io/badge/Download%20Resume-111111?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  <a href="https://raw.githubusercontent.com/Aayushojhaa/Aayushojhaa/main/Aayush_Ojha_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📄%20View%20Resume-111111?style=for-the-badge"/>
   </a>
 </p>
 
@@ -22,7 +22,7 @@ Multi-Region Cloud Architect • High Availability • DevOps Automation
 
 ## ☁️ About Me
 
-Cloud & DevOps Engineer building scalable and highly available AWS architectures.
+Cloud & DevOps Engineer building scalable, secure and highly available AWS architectures.
 
 🎓 B.Tech Computer Science (CGPA 8.32)  
 🏆 AWS Solutions Architect – Associate  
@@ -106,7 +106,7 @@ Designed for resilience, scalability and real-world reliability.
 ## 📬 Connect
 
 📧 aayushojhaa124@gmail.com  
-💼 linkedin.com/in/aayush-ojha-016th  
+💼 https://linkedin.com/in/aayush-ojha-016th  
 
 ---
 
