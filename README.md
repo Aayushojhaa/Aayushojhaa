@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/Aayushojhaa/Aayushojhaa/raw/main/Aayush_Ojha.pdf" download>
-    <img src="https://img.shields.io/badge/⬇%20Download%20Resume-111111?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Download%20Resume-111111?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 </p>
 
@@ -20,30 +20,34 @@
 
 <!-- ================= ABOUT ================= -->
 
-## ☁️ About Me
+## About Me
 
-Cloud & DevOps Engineer focused on building scalable, secure and resilient AWS systems.
+Cloud & DevOps Engineer with hands-on experience designing scalable and highly available AWS architectures.
 
-🎓 B.Tech Computer Science (CGPA 8.32)  
-🏆 AWS Certified Solutions Architect – Associate  
-🏆 AWS Certified Cloud Practitioner  
+Graduated in B.Tech Computer Science (CGPA 8.32).  
+AWS Certified Solutions Architect – Associate.  
+AWS Certified Cloud Practitioner.
 
-I design infrastructure that:
+My work focuses on:
 
-- Scales across Availability Zones  
-- Recovers across Regions  
-- Handles production-level traffic  
-- Automates CI/CD pipelines  
+- Designing secure VPC architectures with public and private subnets  
+- Implementing Auto Scaling and Load Balancing for production environments  
+- Building multi-region disaster recovery strategies  
+- Automating infrastructure using Terraform and Ansible  
+- Deploying containerized applications with Docker and Kubernetes  
+- Creating CI/CD pipelines for reliable deployments  
+
+I approach infrastructure with a system-thinking mindset — prioritizing scalability, fault tolerance, and operational efficiency.
 
 ---
 
 <!-- ================= TECH STACK ================= -->
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <p align="left">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="22"/> <b>AWS</b><br>
+<img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" width="22"/> <b>AWS</b><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="22"/> <b>Terraform</b><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="22"/> <b>Ansible</b><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="22"/> <b>Docker</b><br>
@@ -57,9 +61,9 @@ I design infrastructure that:
 
 ---
 
-<!-- ================= CORE EXPERTISE ================= -->
+<!-- ================= ARCHITECTURE ================= -->
 
-## 🌍 Architecture Expertise
+## Architecture Expertise
 
 - VPC Design (Public & Private Subnets)  
 - IAM Security & Least Privilege  
@@ -74,35 +78,24 @@ I design infrastructure that:
 
 <!-- ================= MAIN REPOSITORIES ================= -->
 
-## 🚀 Main Repositories
+## Main Repositories
 
-### 🔹 Cloud-Native High Availability Portfolio Platform  
-🔗 https://github.com/Aayushojhaa/Cloud-Native-High-Availability-Portfolio-Platform  
+### Cloud-Native High Availability Portfolio Platform  
+https://github.com/Aayushojhaa/Cloud-Native-High-Availability-Portfolio-Platform  
 
-Multi-Region AWS architecture including:
-- Auto Scaling Groups  
-- ALB  
-- Route 53 Failover  
-- RDS + Redis  
-- CloudFront  
-
-Production-style infrastructure deployment.
+Multi-region AWS architecture including Auto Scaling, ALB, Route 53 failover, RDS, Redis and CloudFront.
 
 ---
 
-### 🔹 AWS High Availability & Disaster Recovery  
-🔗 https://github.com/Aayushojhaa/aws-high-availability-disaster-recovery  
+### AWS High Availability & Disaster Recovery  
+https://github.com/Aayushojhaa/aws-high-availability-disaster-recovery  
 
-Focused on:
-- Regional failover strategy  
-- Disaster recovery implementation  
-- Infrastructure resilience  
-- High availability design  
+Implementation of regional failover strategy and disaster recovery planning.
 
 ---
 
-### 🔹 ELB Implementation Project  
-🔗 https://github.com/Aayushojhaa/elb  
+### ELB Implementation  
+https://github.com/Aayushojhaa/elb  
 
 Load balancing implementation and traffic distribution setup.
 
@@ -110,11 +103,11 @@ Load balancing implementation and traffic distribution setup.
 
 <!-- ================= CONTACT ================= -->
 
-## 📬 Connect
+## Contact
 
-📧 aayushojhaa124@gmail.com  
-💼 https://linkedin.com/in/aayush-ojha-016th  
+Email: aayushojhaa124@gmail.com  
+LinkedIn: https://linkedin.com/in/aayush-ojha-016th  
 
 ---
 
-> Building infrastructure that scales, survives failure, and performs under pressure.
+Building infrastructure that scales, survives failure, and performs under pressure.
