@@ -3,16 +3,16 @@
 <h1 align="center">Aayush Ojha</h1>
 
 <p align="center">
-  <b>Cloud Architect • DevOps Engineer • Infrastructure Automation</b>
+  <b>☁ Cloud Architect • ⚙ DevOps Engineer • 🚀 Infrastructure Builder</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=00BFFF&center=true&vCenter=true&width=850&lines=Multi-Region+AWS+Architecture;High+Availability+Systems;Infrastructure+as+Code;Automation+Driven+Engineering" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=00BFFF&center=true&vCenter=true&width=850&lines=Designing+Multi-Region+AWS+Systems;High+Availability+%7C+Disaster+Recovery;Infrastructure+as+Code;Automation+Driven+Engineering" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Aayushojhaa/Aayushojhaa/raw/main/Aayush_Ojha.pdf" download>
-    <img src="https://img.shields.io/badge/Download%20Resume-111111?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+    <img src="https://img.shields.io/badge/⬇%20Download%20Resume-111111?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 </p>
 
@@ -20,94 +20,87 @@
 
 <!-- ================= ABOUT ================= -->
 
-## About Me
+## 🧠 About Me
 
-Cloud & DevOps Engineer with hands-on experience designing scalable and highly available AWS architectures.
+Cloud & DevOps Engineer passionate about building systems that **scale, recover, and perform under real-world load**.
 
-Graduated in B.Tech Computer Science (CGPA 8.32).  
-AWS Certified Solutions Architect – Associate.  
-AWS Certified Cloud Practitioner.
+🎓 B.Tech in Computer Science (CGPA 8.32)  
+🏆 AWS Certified Solutions Architect – Associate  
+🏆 AWS Certified Cloud Practitioner  
 
-My work focuses on:
+What I focus on:
 
-- Designing secure VPC architectures with public and private subnets  
-- Implementing Auto Scaling and Load Balancing for production environments  
-- Building multi-region disaster recovery strategies  
-- Automating infrastructure using Terraform and Ansible  
-- Deploying containerized applications with Docker and Kubernetes  
-- Creating CI/CD pipelines for reliable deployments  
+- 🌍 Multi-AZ & Multi-Region architecture design  
+- 🔁 Disaster Recovery & Failover strategies  
+- 📦 Infrastructure as Code with Terraform & Ansible  
+- 🐳 Containerized deployments with Docker & Kubernetes  
+- 🔄 CI/CD pipelines for reliable automation  
+- 🔐 Security-first IAM and network design  
 
-I approach infrastructure with a system-thinking mindset — prioritizing scalability, fault tolerance, and operational efficiency.
+I think in terms of systems — not just servers.
 
 ---
 
 <!-- ================= TECH STACK ================= -->
 
-## Tech Stack
+## 🛠 Tech Stack
 
 <p align="left">
 
-<img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" width="22"/> <b>AWS</b><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="22"/> <b>Terraform</b><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="22"/> <b>Ansible</b><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="22"/> <b>Docker</b><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="22"/> <b>Kubernetes</b><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="22"/> <b>Jenkins</b><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="22"/> <b>Linux</b><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="22"/> <b>MySQL</b><br>
+<img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" width="22"/> <b>AWS</b> &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="22"/> <b>Terraform</b> &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="22"/> <b>Ansible</b> &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="22"/> <b>Docker</b> &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="22"/> <b>Kubernetes</b> &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="22"/> <b>Jenkins</b> &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="22"/> <b>Linux</b> &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="22"/> <b>MySQL</b> &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="22"/> <b>Git</b>
 
 </p>
 
 ---
 
-<!-- ================= ARCHITECTURE ================= -->
+<!-- ================= PROJECTS ================= -->
 
-## Architecture Expertise
+## 🚀 Main Projects
 
-- VPC Design (Public & Private Subnets)  
-- IAM Security & Least Privilege  
-- EC2, Launch Templates & Auto Scaling  
+### ☁ Cloud-Native High Availability Platform  
+🔗 https://github.com/Aayushojhaa/Cloud-Native-High-Availability-Portfolio-Platform  
+
+Built a production-style AWS architecture with:
+
+- Auto Scaling Groups  
 - Application Load Balancer  
-- Route 53 Failover Routing  
-- RDS (MySQL) & ElastiCache (Redis)  
-- CloudFront Global Distribution  
-- Serverless with Lambda & API Gateway  
+- Route 53 Multi-Region Failover  
+- RDS (MySQL) + ElastiCache (Redis)  
+- CloudFront Global CDN  
+
+Designed for scalability and resilience.
 
 ---
 
-<!-- ================= MAIN REPOSITORIES ================= -->
+### 🌍 AWS High Availability & Disaster Recovery  
+🔗 https://github.com/Aayushojhaa/aws-high-availability-disaster-recovery  
 
-## Main Repositories
-
-### Cloud-Native High Availability Portfolio Platform  
-https://github.com/Aayushojhaa/Cloud-Native-High-Availability-Portfolio-Platform  
-
-Multi-region AWS architecture including Auto Scaling, ALB, Route 53 failover, RDS, Redis and CloudFront.
+Implemented regional failover strategy and infrastructure resilience design.
 
 ---
 
-### AWS High Availability & Disaster Recovery  
-https://github.com/Aayushojhaa/aws-high-availability-disaster-recovery  
+### ⚖ ELB Implementation  
+🔗 https://github.com/Aayushojhaa/elb  
 
-Implementation of regional failover strategy and disaster recovery planning.
-
----
-
-### ELB Implementation  
-https://github.com/Aayushojhaa/elb  
-
-Load balancing implementation and traffic distribution setup.
+Load balancing setup and traffic distribution architecture.
 
 ---
 
 <!-- ================= CONTACT ================= -->
 
-## Contact
+## 📬 Connect
 
-Email: aayushojhaa124@gmail.com  
-LinkedIn: https://linkedin.com/in/aayush-ojha-016th  
+📧 aayushojhaa124@gmail.com  
+💼 https://linkedin.com/in/aayush-ojha-016th  
 
 ---
 
-Building infrastructure that scales, survives failure, and performs under pressure.
+> “Build systems that continue to run when everything else fails.”
