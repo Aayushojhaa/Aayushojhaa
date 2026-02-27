@@ -1,99 +1,99 @@
-<!-- ======================= HEADER ======================= -->
+<!-- ================= HERO SECTION ================= -->
 
 <h1 align="center">Aayush Ojha</h1>
 
+<h3 align="center">
+Multi-Region Cloud Architect • High Availability • DevOps Automation
+</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=AWS+Certified+Solutions+Architect;Cloud+%26+DevOps+Engineer;Infrastructure+as+Code+Specialist;Multi-Region+Cloud+Architecture+Designer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2800&color=0E75B6&center=true&vCenter=true&width=800&lines=Designing+Cloud+That+Scales;Architecting+Resilient+Systems;Infrastructure+as+Code+Specialist;AWS+Solutions+Architect" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aayushojhaa&label=Profile%20Views&color=0e75b6&style=flat" />
+  <a href="https://github.com/Aayushojhaa/Aayushojhaa/blob/main/Aayush_Ojha_Resume.pdf">
+    <img src="https://img.shields.io/badge/Download%20Resume-111111?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
 </p>
 
----
+<br/>
+
+<!-- ================= ABOUT ================= -->
 
 ## ☁️ About Me
 
-Cloud & DevOps Engineer specializing in designing **scalable, secure, and highly available AWS architectures**.
+Cloud & DevOps Engineer building scalable and highly available AWS architectures.
 
-- 🎓 B.Tech Computer Science (CGPA: 8.32)
-- 🏆 AWS Certified Solutions Architect – Associate
-- 🏆 AWS Certified Cloud Practitioner
-- 🛠 Infrastructure as Code (Terraform, Ansible)
-- 🚀 CI/CD & Containerized Deployments
-- 🌍 Open to global cloud engineering roles
+🎓 B.Tech Computer Science (CGPA 8.32)  
+🏆 AWS Solutions Architect – Associate  
+🏆 AWS Cloud Practitioner  
 
----
+I design infrastructure that:
 
-# 🏗 Cloud Architecture Expertise
-
-✔ Multi-AZ & Multi-Region Deployments  
-✔ VPC Design (Public/Private Subnets)  
-✔ IAM Security & Least Privilege  
-✔ EC2, Launch Templates, Auto Scaling  
-✔ Application Load Balancer  
-✔ Route 53 Failover & Disaster Recovery  
-✔ RDS (MySQL), DynamoDB  
-✔ ElastiCache (Redis)  
-✔ CloudFront CDN  
-✔ AWS Systems Manager  
+- Scales across availability zones  
+- Recovers across regions  
+- Automates deployments  
+- Performs reliably under production load  
 
 ---
 
-# ⚙️ DevOps & Automation Stack
+<!-- ================= STACK ================= -->
 
-<p>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
-<img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
----
-
-# 🚀 Flagship Projects
-
-## 🌍 Cloud-Native High Availability Platform
-
-Designed a production-grade AWS architecture with:
-
-- Multi-AZ deployment
-- Auto Scaling & ALB
-- Multi-Region Disaster Recovery (Mumbai → N. Virginia)
-- RDS + Redis integration
-- CloudFront global distribution
-- Secure IAM + SSM management
-
----
-
-## ⚡ Serverless Event-Driven Architecture
-
-- AWS Lambda based backend
-- API Gateway REST APIs
-- Cognito Authentication
-- DynamoDB low-latency storage
-- Secure IAM least privilege policies
-- GitHub integrated workflow
-
----
-
-# 📊 GitHub Performance
+## 🛠 Core Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aayushojhaa&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayushojhaa&theme=tokyonight" />
+<img src="https://skillicons.dev/icons?i=aws,terraform,ansible,docker,kubernetes,jenkins,linux,mysql,git" />
 </p>
 
 ---
 
-# 🐍 Contribution Graph
+<!-- ================= ARCHITECTURE FOCUS ================= -->
+
+## 🌍 Architecture Focus
+
+- VPC design (Public & Private Subnets)  
+- IAM security & least privilege  
+- EC2, Launch Templates & Auto Scaling  
+- Application Load Balancer  
+- Route 53 failover routing  
+- RDS (MySQL) & ElastiCache (Redis)  
+- CloudFront global content delivery  
+- Serverless with Lambda + API Gateway  
+
+---
+
+<!-- ================= FEATURED PROJECT ================= -->
+
+## 🚀 Featured Project
+
+### Cloud-Native High Availability Platform
+
+Production-style AWS deployment including:
+
+- Multi-AZ infrastructure  
+- Auto Scaling Groups  
+- Load Balancing  
+- Multi-Region Disaster Recovery  
+- Database optimization  
+- Secure access via IAM & SSM  
+
+Designed for resilience, scalability and real-world reliability.
+
+---
+
+<!-- ================= STATS ================= -->
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aayushojhaa&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<!-- ================= SNAKE ================= -->
+
+## 🐍 Contribution Graph
 
 <p align="center">
   <img src="https://github.com/Aayushojhaa/Aayushojhaa/blob/output/github-contribution-grid-snake.svg" />
@@ -101,25 +101,13 @@ Designed a production-grade AWS architecture with:
 
 ---
 
-# 🎯 Core Strengths
+<!-- ================= CONNECT ================= -->
 
-✔ Infrastructure Automation  
-✔ High Availability Architecture  
-✔ Disaster Recovery Planning  
-✔ Cloud Security Best Practices  
-✔ CI/CD Pipeline Engineering  
-✔ Analytical Thinking & Leadership  
-
----
-
-# 🌐 Connect
+## 📬 Connect
 
 📧 aayushojhaa124@gmail.com  
 💼 linkedin.com/in/aayush-ojha-016th  
-💻 github.com/Aayushojhaa  
 
 ---
 
-# 🧠 Engineering Philosophy
-
-> “Build cloud systems that scale effortlessly, recover automatically, and operate securely.”
+> I don’t just deploy servers — I design systems that survive scale.
