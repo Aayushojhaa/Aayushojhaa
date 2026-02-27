@@ -1,18 +1,18 @@
-<!-- ================= HERO SECTION ================= -->
+<!-- ================= PREMIUM HERO ================= -->
 
 <h1 align="center">Aayush Ojha</h1>
 
-<h3 align="center">
-Multi-Region Cloud Architect • High Availability • DevOps Automation
-</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2800&color=0E75B6&center=true&vCenter=true&width=800&lines=Designing+Cloud+That+Scales;Architecting+Resilient+Systems;Infrastructure+as+Code+Specialist;AWS+Solutions+Architect" />
+  <b>Cloud Architect • DevOps Engineer • Infrastructure Builder</b>
 </p>
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/Aayushojhaa/Aayushojhaa/main/Aayush_Ojha_Resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/📄%20View%20Resume-111111?style=for-the-badge"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=00BFFF&center=true&vCenter=true&width=850&lines=Designing+Cloud+That+Scales;High+Availability+%7C+Multi-Region+Architecture;Infrastructure+as+Code+Specialist;Automation+Driven+Engineering" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Aayushojhaa/Aayushojhaa/raw/main/Aayush_Ojha.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/✨%20View%20Resume-111111?style=for-the-badge"/>
   </a>
 </p>
 
@@ -22,24 +22,24 @@ Multi-Region Cloud Architect • High Availability • DevOps Automation
 
 ## ☁️ About Me
 
-Cloud & DevOps Engineer building scalable, secure and highly available AWS architectures.
+I design scalable and resilient cloud systems on AWS.
 
 🎓 B.Tech Computer Science (CGPA 8.32)  
-🏆 AWS Solutions Architect – Associate  
-🏆 AWS Cloud Practitioner  
+🏆 AWS Certified Solutions Architect – Associate  
+🏆 AWS Certified Cloud Practitioner  
 
-I design infrastructure that:
+I focus on building infrastructure that:
 
-- Scales across availability zones  
-- Recovers across regions  
-- Automates deployments  
-- Performs reliably under production load  
+- Scales across Availability Zones  
+- Recovers across Regions  
+- Handles real production traffic  
+- Automates deployment pipelines  
 
 ---
 
 <!-- ================= STACK ================= -->
 
-## 🛠 Core Stack
+## 🛠 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=aws,terraform,ansible,docker,kubernetes,jenkins,linux,mysql,git" />
@@ -47,9 +47,9 @@ I design infrastructure that:
 
 ---
 
-<!-- ================= ARCHITECTURE FOCUS ================= -->
+<!-- ================= ARCHITECTURE ================= -->
 
-## 🌍 Architecture Focus
+## 🌍 Architecture Expertise
 
 - VPC design (Public & Private Subnets)  
 - IAM security & least privilege  
@@ -57,27 +57,41 @@ I design infrastructure that:
 - Application Load Balancer  
 - Route 53 failover routing  
 - RDS (MySQL) & ElastiCache (Redis)  
-- CloudFront global content delivery  
-- Serverless with Lambda + API Gateway  
+- CloudFront global distribution  
+- Serverless systems with Lambda & API Gateway  
 
 ---
 
-<!-- ================= FEATURED PROJECT ================= -->
+<!-- ================= PROJECTS ================= -->
 
-## 🚀 Featured Project
+## 🚀 Key Projects
 
-### Cloud-Native High Availability Platform
+### ☁️ Cloud-Native High Availability Platform  
+🔗 https://github.com/Aayushojhaa/Cloud-Native-High-Availability-Portfolio-Platform  
 
-Production-style AWS deployment including:
+Multi-Region AWS architecture featuring:
 
-- Multi-AZ infrastructure  
+- EC2 + Launch Templates  
 - Auto Scaling Groups  
-- Load Balancing  
-- Multi-Region Disaster Recovery  
-- Database optimization  
-- Secure access via IAM & SSM  
+- Application Load Balancer  
+- Route 53 failover  
+- RDS (MySQL)  
+- ElastiCache (Redis)  
+- CloudFront global CDN  
 
-Designed for resilience, scalability and real-world reliability.
+Built like real production infrastructure.
+
+---
+
+### 🌍 AWS High Availability & Disaster Recovery  
+🔗 https://github.com/Aayushojhaa/aws-high-availability-disaster-recovery  
+
+Focused on:
+
+- Regional failover strategy  
+- Disaster recovery planning  
+- Infrastructure resilience  
+- High availability design principles  
 
 ---
 
@@ -110,4 +124,4 @@ Designed for resilience, scalability and real-world reliability.
 
 ---
 
-> I don’t just deploy servers — I design systems that survive scale.
+> I don’t just deploy infrastructure — I design systems that survive scale.
